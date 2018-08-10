@@ -1,6 +1,6 @@
 #Solving a Gearball Using the A-Star Algorigthm
 
-![alt-text](gearball.jpg "Gearball")
+![Gearball](gearball.jpg)
 
 
 #To Run
