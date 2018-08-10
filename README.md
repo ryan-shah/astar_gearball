@@ -1,5 +1,7 @@
 #Solving a Gearball Using the A-Star Algorigthm
 
+For those unfamiliar: 
+
 ![Gearball](gearball.jpg)
 
 
