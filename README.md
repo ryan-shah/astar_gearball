@@ -108,6 +108,17 @@ While the gearball may be less complex than the cube, I'd take an educated guess
 in the 15-20 range, thus requiring solves involving 15-20 turns to take a* to a depth of 15-20 forgiving some lucky coincidence
 where the moves tend to solve the ball itself. This however is also unlikely as there are built in protections against that
 in the randomizer.
+
+Graphs
+---
+1:
+
+![graph1.png](graph1.png)
+
+2:
+
+![graph2.png](graph2.png)
+
 _________________________________________
 
 BELOW IS A REPEAT OF PROJ 1 INFORMATION
