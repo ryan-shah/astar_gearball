@@ -1,11 +1,11 @@
-#Solving a Gearball Using the A-Star Algorigthm
+# Solving a Gearball Using the A-Star Algorigthm
 
 For those unfamiliar: 
 
 ![Gearball](gearball.jpg)
 
 
-#To Run
+# To Run
 
 To compile gui program
 ```
